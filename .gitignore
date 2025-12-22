@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# PyQt
+*.pyc
+*.pyo
+*.ui
+*.qrc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+data/database/*.db
+data/cache/*
+logs/*.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.egg-info/
